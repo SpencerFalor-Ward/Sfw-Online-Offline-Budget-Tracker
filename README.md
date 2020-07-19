@@ -1,4 +1,4 @@
-# :money: [Welcome to SpencerFalor-Ward's Budget Tracker](https://budget-tracker-sfw.herokuapp.com/) :money:
+# :moneybag:[SpencerFalor-Ward's Budget Tracker](https://budget-tracker-sfw.herokuapp.com/):moneybag:
 
 [![Followers](https://img.shields.io/github/followers/SpencerFalor-Ward?style=social)](https://github.com/SpencerFalor-Ward?tab=followers) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Language](https://img.shields.io/github/languages/top/SpencerFalor-Ward/hw-unit18-Online-OfflineBudgetTracker)](https://github.com/SpencerFalor-Ward/hw-unit18-Online-OfflineBudgetTracker/search?l=javascript) [![Latest Commit](https://img.shields.io/github/last-commit/SpencerFalor-Ward/hw-unit18-Online-OfflineBudgetTracker)](https://github.com/SpencerFalor-Ward/hw-unit18-Online-OfflineBudgetTracker/graphs/commit-activity)
 
@@ -8,7 +8,7 @@ Budget Tracker application with online/offline access and functionality
 
 -   [Installation](#Installation)
 -   [Usage](#Usage)
--   [Liscence](#Liscence)
+-   [License](#License)
 -   [Contributing](#Contributing)
 -   [Test](#Test)
 -   [Questions](#Questions)
@@ -24,7 +24,7 @@ Input your choice of cardio or resistance and then input your parameters of the 
 
 ![Budget tracker demo](./budgetTracker.gif)
 
-## Liscence
+## License
 
 Licensed under the [MIT License](https://choosealicense.com/licenses/mit/) license.
 
